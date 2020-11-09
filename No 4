@@ -1,0 +1,21 @@
+4(a)
+def print_arguments(a,b,c):
+   x=c*10
+   y=a+b
+   return x,y
+
+sums = print_arguments(3,4,2)
+print(sums)
+
+
+4(b)
+def mul():
+    fi = input("first number: ")
+    s1 = 2
+    ht = int(fi) * (s1)
+    return ht
+
+#main program
+print("Enter 2 Numbers")
+rv =mul()
+print("Multiply of these numbers by 2 is ", rv)
