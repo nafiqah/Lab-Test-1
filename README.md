@@ -1,5 +1,4 @@
 # Lab-Test-1
-
 Question 1
 def countBits(n): 
     count = 0
